@@ -1,7 +1,6 @@
 */ipynb_checkpoints/*
 .ipynb_checkpoints
 *checkpoints*
-*.csv
 *.zip
 *.pkl
 *.png
