@@ -4,7 +4,17 @@
 *.zip
 *.pkl
 *.png
+~*.*
+*/old/*
 *.jpg
 *.pyc
 *.html
 *.csv
+*\*.ini
+desktop.ini
+data/desktop.ini
+data/original/desktop.ini
+Capstone Two - Building Energy Prediction.gdoc
+Capstone Two - Building Energy Prediction.gslides
+*.ini
+*.ini
